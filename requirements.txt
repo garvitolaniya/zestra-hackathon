@@ -1,0 +1,8 @@
+Flask
+pandas
+numpy
+plotly
+scikit-learn
+matplotlib
+shap
+graphviz 
